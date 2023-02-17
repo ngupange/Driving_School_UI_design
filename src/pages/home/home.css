@@ -8,7 +8,9 @@
 
 .homeTitle {
   width: 1024px;
-  font-size: 20px;
+  font-size: 2em;
+  color: #1e4617;
+  font-weight: 800;
   border-top: 1px solid #1e4617;
   padding-top: 1em;
 }
