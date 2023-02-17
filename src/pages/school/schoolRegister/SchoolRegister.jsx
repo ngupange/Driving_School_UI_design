@@ -1,4 +1,4 @@
-import "./Schoolregister.css"
+import "./schoolRegister.css"
 
 const SchoolRegister = () => {
     return (

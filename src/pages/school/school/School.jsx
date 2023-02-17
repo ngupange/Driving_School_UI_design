@@ -2,7 +2,7 @@ import "./school.css"
 
 const School = () => {
     return (
-        <div>School</div>
+        <div>Single School</div>
     )
 }
 
