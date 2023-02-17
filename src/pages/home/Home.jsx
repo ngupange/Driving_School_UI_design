@@ -4,6 +4,7 @@ import Header from "../../components/header/Header"
 import Citysection from "../../components/bycities/CitiesSection"
 import LicenceType from "../../components/licenceType/LicenceType"
 import TopSchool from "../../components/topRatedSchools/TopSchool"
+import Footer from "../../components/footer/Footer";
 
 const Home = () => {
     return (
@@ -17,6 +18,7 @@ const Home = () => {
                 <h1 className="homeTitle">Top rated Instructors</h1>
                 <TopSchool />
             </div>
+            <Footer />
         </div>
     )
 }
