@@ -9,4 +9,6 @@
 .homeTitle {
   width: 1024px;
   font-size: 20px;
+  border-top: 1px solid #1e4617;
+  padding-top: 1em;
 }
