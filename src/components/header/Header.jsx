@@ -88,7 +88,7 @@ const Header = () => {
                         )}
                     </div>
                     <div className="headerSearchItem">
-                        <button className="headerBtn">
+                        <button className="searchBtn">
                             Search
                         </button>
                     </div>

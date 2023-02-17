@@ -42,13 +42,14 @@
   margin: 20px 0px;
 }
 
-.headerBtn {
-  background-color: #0071c2;
-  color: white;
-  font-weight: 500;
+.searchBtn {
+  font-weight: 700;
   border: none;
   padding: 10px;
   cursor: pointer;
+  color: #ebece9;
+  border-radius: 1em;
+  background-color: #e66714;
 }
 
 .headerSearch {
