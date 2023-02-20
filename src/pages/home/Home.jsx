@@ -20,7 +20,7 @@ const Home = () => {
             </div>
             <Footer />
         </div>
-    )
-}
+    );
+};
 
 export default Home
